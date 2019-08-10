@@ -1,4 +1,4 @@
-# XOR learning using TensorFlow
+# XOR learning using TensorFlow L
 
 import tensorflow as tf
 import numpy as np
